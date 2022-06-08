@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Dante Rodriguez alias @Dragonariuz
+- 👀 I’m interested in Videogames development and in a future Web development
+- 🌱 I’m currently learning C# language.
+- 💞️ I’m looking to collaborate on a any videogame company if its posible.
+- Also I'm student in the Universidad Autonoma de Chihuahua (UACH) in Chihuahua, Mexico.
+- - Actually I am studying the sciences computation carrer.
