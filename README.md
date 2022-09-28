@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dante Rodriguez alias @Dragonariuz
+- 👋 Hi, I’m Dante Rodriguez
 - 👀 I’m interested in Videogames development and in a future Web development
 - 🌱 I’m currently learning C# language.
 - 💞️ I’m looking to collaborate on a any videogame company if its posible.
